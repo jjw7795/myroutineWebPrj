@@ -1,0 +1,93 @@
+/*===============================================*/
+.main{
+    width: 100px;
+}
+.list-container{
+    display: flex;
+    flex-direction: column;
+}
+.input-container {
+    display: flex;
+}
+.input-container form {
+    display: flex;
+    margin-left: 5px;
+    margin-bottom: 5px;
+}
+.input-container .button-box{
+    margin-left: auto;
+    padding-top : 5px;
+}
+
+.input-container .button-box .button{
+	
+    background-color: #30baa1;
+    color: white;
+    font-weight: bold;
+    
+    margin-left: auto;
+    padding: 10px;
+    cursor: pointer;
+    text-decoration: none;
+    border:none;
+}
+
+.input-container .check-label{
+    border: 2px solid #30baa1;
+    padding: 5px;
+    background: #30baa1;
+    color: white;
+    font-weight: bold;
+    font-size: 20px;
+}
+
+.input-container .check-list{
+    border-top: 2px solid #30baa1;
+    border-right: 2px solid #30baa1;
+    border-bottom: 2px solid #30baa1;
+    padding: 5px;
+}
+
+.input-container .search-container{
+   margin-left: auto;
+   border: 2px solid #30baa1;
+   box-sizing: border-box;
+}
+.input-container .search-container select{
+   width: 50px;
+   height: 37px;
+   font-size: 20px;
+   font-weight: bold;
+   text-align: center;
+   border: none;
+   background: #30baa1;
+   color: white;
+   box-sizing: border-box;
+   
+}
+.input-container .search-container .search-input{
+    display: inline-block;
+    width: 300px;
+    
+    box-sizing: border-box;
+}
+
+
+.exercise-list{
+    display: flex;
+    flex-flow: row wrap;
+    background-image: url();
+}
+.exercise-list .list-box{
+    width: 140px;
+    border-left: 2px solid #30baa1;
+    border-right: 2px solid #30baa1;
+    border-top:  2px solid #30baa1;
+    text-align: center;
+    margin: 5px;
+    flex: none;
+}
+.exercise-list .list-box .name{
+   border-top:  2px solid #30baa1;
+   border-bottom: 2px solid #30baa1;
+}
