@@ -56,7 +56,7 @@
 
 ✅ [4] 운동수정
 
-![image-20210217215643436](C:\Users\USER1\AppData\Roaming\Typora\typora-user-images\image-20210217215643436.png)
+![image](https://user-images.githubusercontent.com/55862164/108209686-edcde600-716d-11eb-87c2-cafeb5d36d4a.png)
 
 ✅ [5] 공지사항 목록
 
@@ -64,19 +64,19 @@
 
 ✅ [6] 공지사항 등록
 
-![image-20210217215737954](C:\Users\USER1\AppData\Roaming\Typora\typora-user-images\image-20210217215737954.png)
+![image](https://user-images.githubusercontent.com/55862164/108209854-240b6580-716e-11eb-8fbb-5cbeb7312a72.png)
 
 ✅ [7] 공지사항 상세
 
-![image-20210217215756604](C:\Users\USER1\AppData\Roaming\Typora\typora-user-images\image-20210217215756604.png)
+![image](https://user-images.githubusercontent.com/55862164/108209937-3d141680-716e-11eb-8061-43c5341729c2.png)
 
 ✅ [8] 공지사항 수정
 
-![image-20210217215816729](C:\Users\USER1\AppData\Roaming\Typora\typora-user-images\image-20210217215816729.png)
+![image](https://user-images.githubusercontent.com/55862164/108210025-5ddc6c00-716e-11eb-9beb-6b81d6c3b1eb.png)
 
 ✅ [9] 커뮤니티 상세
 
-![image-20210217215846814](C:\Users\USER1\AppData\Roaming\Typora\typora-user-images\image-20210217215846814.png)
+![image](https://user-images.githubusercontent.com/55862164/108210111-79e00d80-716e-11eb-8f84-f08eeec81ecd.png)
 
 ## 💻 개발자
  - 김병수
