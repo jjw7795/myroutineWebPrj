@@ -28,7 +28,7 @@
 
 ![image](https://user-images.githubusercontent.com/55862164/108204685-75642680-7167-11eb-9212-8f4974bd8a4f.png)
 
-![image-20210217213219425](C:\Users\USER1\AppData\Roaming\Typora\typora-user-images\image-20210217213219425.png)
+![image](https://user-images.githubusercontent.com/55862164/108211439-0a6b1d80-7170-11eb-8293-7fa1f4ecd805.png)
 
 ✅ [2] ERD
 
@@ -87,9 +87,7 @@
 ## Contribution
   - 공지사항 목록, 수정, 상세 구현
 ## 개발에 어려웠던 점
-  - [x] Servlet/JSP도 처음이었고, get과 post 방식, MVC모델로 진행하면서의 EL 태그 라이브러리 이용하여 view를 다루는 부분, 
-
-    DBMS 쿼리부분이 어려웠다.
+  - [x] Servlet/JSP도 처음이었고, get과 post 방식, MVC모델로 진행하면서의 EL 태그 라이브러리 이용하여 view를 다루는 부분,  DBMS 쿼리부분이 어려웠다.
 
 ## 느낀점
   - [x] JAVA언어의 특징을 이용하여 DBMS의 내용을 가져오면서 구조도를 더 알게 되었다.
