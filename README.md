@@ -34,25 +34,25 @@
 
 ![image](https://user-images.githubusercontent.com/55862164/108206068-3afb8900-7169-11eb-83b7-e7acee75171d.png)
 
-![image-20210217214741804](C:\Users\USER1\AppData\Roaming\Typora\typora-user-images\image-20210217214741804.png)
+![image](https://user-images.githubusercontent.com/55862164/108210450-e6f3a300-716e-11eb-9b6a-d7b59df0b038.png)
 
-![image-20210217214938019](C:\Users\USER1\AppData\Roaming\Typora\typora-user-images\image-20210217214938019.png)
+![image](https://user-images.githubusercontent.com/55862164/108210525-fe329080-716e-11eb-98ee-aa79ce52bd3c.png)
 
-![image-20210217215037836](C:\Users\USER1\AppData\Roaming\Typora\typora-user-images\image-20210217215037836.png)
+![image](https://user-images.githubusercontent.com/55862164/108210596-15717e00-716f-11eb-8988-0ebc83cf96a1.png)
 
 ## 🎞UI  Scratch
 
 ✅ [1] 회원가입
 
-![image-20210217215442432](C:\Users\USER1\AppData\Roaming\Typora\typora-user-images\image-20210217215442432.png)
+![image](https://user-images.githubusercontent.com/55862164/108210650-28844e00-716f-11eb-86d5-733292d15aa0.png)
 
 ✅ [2] 회원관리
 
-![image-20210217215532099](C:\Users\USER1\AppData\Roaming\Typora\typora-user-images\image-20210217215532099.png)
+![image](https://user-images.githubusercontent.com/55862164/108210708-3fc33b80-716f-11eb-9989-687f575467f7.png)
 
 ✅ [3] 운동관리
 
-![image-20210217215603483](C:\Users\USER1\AppData\Roaming\Typora\typora-user-images\image-20210217215603483.png)
+![image](https://user-images.githubusercontent.com/55862164/108210779-51a4de80-716f-11eb-9cc9-d472c5993e80.png)
 
 ✅ [4] 운동수정
 
@@ -60,7 +60,7 @@
 
 ✅ [5] 공지사항 목록
 
-![image-20210217215708101](C:\Users\USER1\AppData\Roaming\Typora\typora-user-images\image-20210217215708101.png)
+![image](https://user-images.githubusercontent.com/55862164/108210877-6aad8f80-716f-11eb-954a-71f4d861e998.png)
 
 ✅ [6] 공지사항 등록
 
